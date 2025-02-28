@@ -100,14 +100,3 @@ Ensure you have the following installed on your system:
       User_name- Test_ID@email.com , Password -Random_pass;
     }
 ---
-
-
-## Live Demo 
-
-<pre>
-   <a href= "https://real-time-chat-application-kp6g.onrender.com">https://real-time-chat-application-kp6g.onrender.com</a>
-</pre>
-
----
-
-
