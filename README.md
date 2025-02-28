@@ -18,7 +18,7 @@ This project is a **Real-Time Chat Application** built using **MERN STACK** to f
 -  **Theme change**: 32 different theme can be used like(dark, light, cupcake)
 - **Scalable**: Designed to support a growing user base.
 
----g
+---
 
 ## Tech Stack
 
@@ -37,7 +37,7 @@ This project is a **Real-Time Chat Application** built using **MERN STACK** to f
 Ensure you have the following installed on your system:
 - [Node.js](https://nodejs.org/) (v16 or above recommended)
 - [MongoDB](https://www.mongodb.com/) (Local or Cloud Atlas)
-- Git
+- [Git](https://git-scm.com/)(Version control system)
 
 ### Steps to Set Up
 
