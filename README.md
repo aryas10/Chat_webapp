@@ -18,7 +18,7 @@ This project is a **Real-Time Chat Application** built using **MERN STACK** to f
 -  **Theme change**: 32 different theme can be used like(dark, light, cupcake)
 - **Scalable**: Designed to support a growing user base.
 
----
+---g
 
 ## Tech Stack
 
@@ -95,8 +95,10 @@ Ensure you have the following installed on your system:
 1. **Sign Up / Log In**: Create an account or log in to an existing one  or fake account.
 2. **Start a Chat**: Search for other users and initiate a chat.
 3. **Send Messages**: Exchange messages in real-time.
-4. ** NOTE** : Authentication is not required , just use Fake account For testing purposes,
-    as Example-{ User_name- Test_ID@email.com , Password -Random_pass;}
+4. **NOTE** : Authentication is not required , just use Fake account For testing purposes,
+    as Example-{ 
+      User_name- Test_ID@email.com , Password -Random_pass;
+    }
 ---
 
 
